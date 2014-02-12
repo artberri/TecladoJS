@@ -1,6 +1,6 @@
 {
   "name": "TecladoJS",
-  "description": "Fork de la librería KeyboardJS para manejar eventos de teclado. Solo se que se ha traducido al castellano con motivos educativos.",
+  "description": "Fork de la librería KeyboardJS para manejar eventos de teclado. Solo que se ha traducido al castellano con motivos educativos.",
   "version": "0.4.2",
   "keywords": [
     "Key Binding, Keyboard, Key combos, Keyboard Shortcuts"
